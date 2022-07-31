@@ -1,3 +1,3 @@
 # dice
 
-CHEck out at - https://himanshuxingh.github.io/dice/
+Check this out at - https://himanshuxingh.github.io/dice/
